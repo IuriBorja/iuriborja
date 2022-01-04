@@ -16,8 +16,7 @@ My name is Iuri and i'm a technology lover. 😍
   <img align="center" alt="Iuri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Iuri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Iuri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-    src="https://i.picasion.com/pic91/1275856b0048fbbab5a46fb5a1564aeb.gif" width="180" height="180" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+  
 </div>
   
   ##
