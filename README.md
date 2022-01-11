@@ -1,4 +1,4 @@
-## Õlá, Mundo! ##
+## Olá, Mundo! ##
 
 Meu nome é Iuri e sou um amante da tecnologia. �
 
