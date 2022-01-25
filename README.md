@@ -27,6 +27,12 @@ Meu nome é Iuri e sou um amante da tecnologia.
   <a href = "mailto:iuriborja@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iuri-borja-72a28b171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  
+<p align="center"> Quantidade de visitas no meu perfil desde 25/01/2022 </p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/IuriBorja/count.svg" /></p>
+  
+  
+  
   ![Snake animation](https://github.com/iuriborja/iuriborja/blob/output/github-contribution-grid-snake.svg)
   
   </div>
