@@ -1,8 +1,8 @@
 ## Olá, Mundo! ##
 
-Meu nome é Iuri e sou um amante da tecnologia. 
+My name is Iuri and I am a technology lover.
 
-...e escrevo alguns códigos! 😅
+...and write some code! 😅
 
 
 <div align="center">
