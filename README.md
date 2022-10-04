@@ -1,4 +1,4 @@
-## Olá, Mundo! ##
+## Hello, world! ##
 
 My name is Iuri and I am a technology lover.
 
