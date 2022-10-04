@@ -41,7 +41,7 @@ My name is Iuri and I am a technology lover.
   
 <div> 
     
-<p align="center"> Quantidade de visitas no meu perfil desde 25/01/2022 : </p>
+<p align="center"> Number of visits to my profile since 25/01/2022 : </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/IuriBorja/count.svg" /></p>
   
   
