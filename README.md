@@ -5,6 +5,7 @@ My name is Iuri and I am a technology lover.
 ...and write some code! 😅
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuriBorja&layout=dracula)](https://github.com/IuriBorja/github-readme-stats)
 
 
 
