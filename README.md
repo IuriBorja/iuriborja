@@ -5,7 +5,7 @@ My name is Iuri and I am a technology lover.
 ...and write some code! 😅
 
 
-[![Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriBorja&show_icons=true&theme=dracula)](https://github.com/IuriBorja/github-readme-stats)
+[![Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriBorja)](https://github.com/IuriBorja/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IuriBorja&layout=compact)](https://github.com/IuriBorja/github-readme-stats)
 
