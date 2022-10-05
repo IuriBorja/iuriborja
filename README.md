@@ -14,7 +14,7 @@ My name is Iuri and I am a technology lover.
   
   
 
-<a href="https://app.daily.dev/iuriborja"><img src="https://github.com/IuriBorja/devcard.svg" width="300" alt="Iuri Borja's Dev Card"/></a>
+<a href="https://app.daily.dev/iuriborja"><img src="https://github.com/IuriBorja/iuriborja/blob/main/devcard.svg" width="300" alt="Iuri Borja's Dev Card"/></a>
 
 
 
