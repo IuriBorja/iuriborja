@@ -15,7 +15,7 @@ My name is Iuri and I am a technology lover.
   
 <p align="right">
 </p>
-<a href="https://app.daily.dev/iuriborja"><img src="https://github.com/IuriBorja/iuriborja/blob/main/devcard.svg" width="300" alt="Iuri Borja's Dev Card"/></a>
+[![Iuri card](<a href="https://app.daily.dev/iuriborja">)](<img src="https://github.com/IuriBorja/iuriborja/blob/main/devcard.svg" width="300" alt="Iuri Borja's Dev Card"/></a>)
 
 
 [![Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriBorja)](https://github.com/IuriBorja/github-readme-stats) 
