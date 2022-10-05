@@ -11,8 +11,12 @@ My name is Iuri and I am a technology lover.
   <a href="https://www.linkedin.com/in/iuri-borja-72a28b171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   </div>
+  
+  
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/rebelchris/rebelchris/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/iuriborja/iuriborja/blob/master/devcard.svg" width="400" alt="Chris Bongers's Dev Card"/></a>
+
+
 
 [![Iuri GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriBorja)](https://github.com/IuriBorja/github-readme-stats)  
 
