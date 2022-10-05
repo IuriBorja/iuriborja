@@ -13,7 +13,7 @@ My name is Iuri and I am a technology lover.
   </div>
   
   
-<p align="right">
+<p align="center">
 
 <a href="https://app.daily.dev/iuriborja"><img src="https://github.com/IuriBorja/iuriborja/blob/main/devcard.svg" width="300" alt="Iuri Borja's Dev Card"/></a>
   
