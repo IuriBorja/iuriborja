@@ -29,22 +29,38 @@
 </br>
 </br>
 
-   ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=FF8901)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=FF8901)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=FF8901)&nbsp;
 
-
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=FF8901)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=FF8901)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=FF8901)&nbsp;
+  <div style="display: inline_block"><br>
+  
+  <img align="center" alt="Iuri-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img align="center" alt="Iuri-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Iuri-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="Iuri-Tp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  
+  <img align="center" alt="Iuri-React" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
+  <img align="center" alt="Iuri-Node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  
+  <img  align="center" alt="Iuri-Sass" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+           
+  <img  align="center" alt="Iuri-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+          
+  <img align="center" alt="Iuri-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  
+  <img align="center" alt="Iuri-SQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+                          
+           
+  </div>
+  
 
 </br>
 </br>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Number of visits to my profile</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{IuriBorja}/count.svg" /></p> 
 <br>
 </div>
