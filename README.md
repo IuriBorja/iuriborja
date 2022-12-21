@@ -68,4 +68,10 @@
 </br>
 </br>
 
+![Snake animation](https://github.com/IuriBorja/IuriBorja/blob/output/github-contribution-grid-snake.svg)
+
+</br>
+</br>
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8901&height=120&section=footer"/>
