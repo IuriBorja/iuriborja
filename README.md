@@ -38,7 +38,11 @@
   
   <img align="center" alt="Iuri-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-  <img align="center" alt="Iuri-Java" height="60" width="80" src="<a href="https://iconscout.com/icons/java">
+  <img align="center" alt="Iuri-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+
+  <img align="center" alt="Iuri-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
+
+  <img align="center" alt="Iuri-JQuery" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
   
   <img  align="center" alt="Iuri-Sass" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
            
