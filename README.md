@@ -50,7 +50,7 @@
           
   <img align="center" alt="Iuri-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   
-  <img align="center" alt="Iuri-SQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+
                           
            
   </div>
