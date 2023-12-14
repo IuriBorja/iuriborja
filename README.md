@@ -1,77 +1,49 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8901&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E8990C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Iuri+Borja;I'm+32+years+old;I'm+from+Brazil;I+live+in+Portugal;Welcome!+:%29)](https://git.io/typing-svg)
-
-</br>
-</br>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IuriBorja&show_icons=true&count_private=true&hide_border=true&title_color=FF4400&icon_color=FF4400&text_color=24292F&bg_color=FFFFFF" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriBorja&layout=compact&hide_border=true&title_color=FF4400&text_color=24292F&bg_color=FFFFFF" />
-</div>
-
-</br>
-</br>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=IuriBorja&theme=dracula&row=2&no-bg=24292F&column=3&margin-w=15&margin-h=15" />
+  <h1 align="center">Hi! Welcome to my profile!</h1>
 </p>
 
-</br>
-</br>
 
-<div align="center"> 
-<a href="https://instagram.com/iuriborja" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:iuriborja@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/iuri-borja-72a28b171/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
+- 🌱 I’m currently learning React.
+- ⚡ Doing projects in Java , Spring Framework, JavaScript, HTML , CSS;
+- 😄 You can download my CV [here](https://www.flipsnack.com/CFAE6AEEFB5/cv_iuriborja_/full-view.html "here").
+
+## Technologies I know and I'm learning
+#### Backend
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="nodejs" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" alt="spring" width="60" height="60"/>
   
-</br>
-</br>
+<img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="maven" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="hibernate" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" alt="junit" width="60" height="60"/>
+</p>
 
-
-  <div style="display: inline_block"><br>
+#### Frontend
+<p align="left">
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html5" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css3" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png" alt="sass" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="bootstrap" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/react-original-wordmark.svg" alt="react" width="60" height="60"/>
   
-  <img align="center" alt="Iuri-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-  <img align="center" alt="Iuri-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  <img align="center" alt="Iuri-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</p>
 
-  <img align="center" alt="Iuri-Java" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+#### Database
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
+</p>
 
-  <img align="center" alt="Iuri-Spring" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain.svg">
-
-  <img align="center" alt="Iuri-JQuery" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain.svg">
-  
-  <img  align="center" alt="Iuri-Sass" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-           
-  <img  align="center" alt="Iuri-Bootstrap" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-          
-  <img align="center" alt="Iuri-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  
-
-                          
-           
-  </div>
-  
-
-</br>
-</br>
-
-<div align="center">
-<br><p align="centre"><b>Number of visits to my profile</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{IuriBorja}/count.svg" /></p> 
-<br>
-</div>
-
-</br>
-</br>
+#### Others
+<p align="left">
+<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="git" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="figma" width="60" height="60"/>
+<img src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="jenkins" width="60" height="60"/>
+</p>
 
 
-
-</br>
-</br>
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF8901&height=120&section=footer"/>
+## Let's connect:
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuriborja@gmail.com)](mailto:iuriborja@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iuriborja/)](https://www.linkedin.com/in/iuriborja/)
+[![Whatsapp Badge](https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge")](https://wa.me/+351918493207)
